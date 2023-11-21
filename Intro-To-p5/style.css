@@ -1,0 +1,11 @@
+body {
+    background-color: aqua;
+}
+
+head {
+    background-color: aquamarine;
+}
+
+.label {
+    size: 50px;
+}
